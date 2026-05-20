@@ -2,7 +2,7 @@
 
 ## About Me
 
-role  : AI & Data Science Undergraduate
+role  : AI & Data Science Undergraduate <br>
 focus : LLMs · Retrieval Systems · Applied AI
 
 - Interested in conversational AI workflows and intelligent systems
